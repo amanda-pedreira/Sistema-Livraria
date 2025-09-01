@@ -26,18 +26,11 @@ O curso foi bem completo e me levou desde conceitos básicos até boas práticas
 - Realizar operações CRUD (Create, Read, Update, Delete).  
 - Implementar validações e relacionamentos entre dados.  
 
-### ⚙️ Boas práticas e organização
+### ⚙️ Organização e testes
 - Estruturar pastas de forma organizada e escalável.  
 - Separar responsabilidades entre **controllers**, **models** e **routes**.  
-
-### 🧪 Testes e qualidade
-- Introdução a testes automatizados para APIs.  
 - Testar endpoints usando ferramentas como **Postman**.  
 
-### 🌐 Conceitos importantes
-- Entender o que é uma **API REST** e como aplicar seus princípios.  
-- Compreender a diferença entre **REST** e outros tipos de API.  
-- Aprender sobre **status codes** e como criar respostas claras e corretas para os usuários.
 
 ---
 
