@@ -40,6 +40,11 @@ Exemplos de endpoints:
 - DELETE `/livros/:id` → remove um livro do sistema  
 
 ---
+## Testes
+
+As requisições foram testadas localmente via Postman durante o desenvolvimento.
+
+---
 
 ## Exemplo de resposta (GET /livros)
 
@@ -53,6 +58,4 @@ Exemplos de endpoints:
 ]
 
 
-## Testes
 
-As requisições foram testadas localmente via Postman durante o desenvolvimento.
